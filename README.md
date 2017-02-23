@@ -1,0 +1,1 @@
+# gst-maven-predefined-properties
